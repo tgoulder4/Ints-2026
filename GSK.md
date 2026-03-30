@@ -69,4 +69,4 @@ To help with the feedback extended answer questions, I asked gemini to generate 
     I will prioritise accessibility to ensure that medical information is clear for all users.
     I believe that inclusive design leads to better health outcomes.
 
-I have printed a sheet out for GSK detailing the role description. I stated today (30th/03) that I don't find it particularly helpful, but what I do find helpful is the next steps in bullet points and the circling of the current step, being tangible.
+I have printed a sheet out for GSK detailing the role description. I stated today (30th/03) that I don't find it particularly helpful, but what I do find helpful is the next steps in bullet points and the circling of the current step, being tangible. I stated we will keep the descs and make a new page to have the role descriptions accessible
