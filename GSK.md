@@ -68,3 +68,5 @@ To help with the feedback extended answer questions, I asked gemini to generate 
     My experience with Figma will help me apply the GSK Digital Design System for consistent user experiences.
     I will prioritise accessibility to ensure that medical information is clear for all users.
     I believe that inclusive design leads to better health outcomes.
+
+I have printed a sheet out for GSK detailing the role description. I stated today (30th/03) that I don't find it particularly helpful, but what I do find helpful is the next steps in bullet points and the circling of the current step, being tangible.
