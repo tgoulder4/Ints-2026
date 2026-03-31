@@ -263,3 +263,5 @@ Facility management: Using vendors to manage buildings and projects.'.
 
 
 I went to lib that afternoon and found an article by 'GF job assessment experts' stating there are 6 types of gsk online job asessments. I felt that I was tired at the time of finding this and didn't have energy to act on this or relate it to the progress so far as was low, and that there would be no point in investing time in this further at this time.
+
+I stated I don't want to rush the rest of this recruitment process as it damages my cognitive ability through irrelgular patterns.
